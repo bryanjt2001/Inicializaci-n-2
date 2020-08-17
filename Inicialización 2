@@ -3,4 +3,8 @@ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta>cd proyectoprueba
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>git init
 Initialized empty Git repository in C:/Users/Bryan Jácome Tumbaco/Desktop/Nueva carpeta/proyectoprueba/.git/
-C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>git status
+On branch master
+No commits yet
+nothing to commit (create/copy files and use "git add" to track)
